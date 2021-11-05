@@ -1,0 +1,19 @@
+{
+  "name": "gitinit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oladayo Olufemi Fagbemi",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "chalk": "^4.1.2",
+    "execa": "^5.1.1",
+    "listr": "^0.14.3"
+  }
+}
